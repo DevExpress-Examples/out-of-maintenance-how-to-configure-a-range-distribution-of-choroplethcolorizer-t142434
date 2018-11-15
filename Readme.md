@@ -1,3 +1,8 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Form1.cs](./CS/RangeDistributions/Form1.cs) (VB: [Form1.vb](./VB/RangeDistributions/Form1.vb))
+<!-- default file list end -->
 # How to configure a range distribution of ChoroplethColorizer
 
 
